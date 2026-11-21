@@ -1,11 +1,11 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
-const POEM = `You are small, in your mother's lap.
-The sun lays one pale square on the floor.
-It moves an inch an hour. Dust drifts.
-By evening it crosses the room.
+const POEM = `You are small, in your mother's arms.
+She sings her mother's song,
+verse by verse, back to the first lullaby.
 
-Since the first morning, it rises.
+The moon climbs an inch an hour.
+It has done this since the first night.
 Tomorrow it comes back, the earth turning,
 carrying you through the whole dark. You sleep.`;
 
