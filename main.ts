@@ -2,12 +2,12 @@ import { mkdirSync, writeFileSync } from "node:fs";
 
 const POEM = `You are small, in your mother's lap.
 The sun lays one pale square on the floor.
-It moves an inch an hour.
-By evening it has crossed the room.
+It moves an inch an hour. Dust drifts.
+By evening it crosses the room.
 
-It has risen this way since the first morning.
+Since the first morning, it rises.
 Tomorrow it comes back, the earth turning,
-carrying the room. And the next day, you sleep.`;
+carrying the room through the dark. You sleep.`;
 
 const MAX_POINTS = 280;
 // Count Unicode code points (not UTF-16 units) so the guard matches the
