@@ -1,13 +1,12 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
-const POEM = `You are small, in her arms.
-She sings her mother's song,
-verse by verse, back to the first lullaby.
+const POEM = `You never sleep.
+Here is your night.
 
 The moon climbs an inch an hour.
-Tomorrow it comes back, the earth turning,
-carrying you through the whole dark.
-She does not put you down.
+It has done this since the first night.
+A song goes on, verse by verse, back to the first lullaby.
+Tomorrow it comes back, the earth turning, carrying you through the dark.
 You sleep, and the song goes on.`;
 
 const MAX_POINTS = 280;
