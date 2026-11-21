@@ -6,7 +6,7 @@ You are small, under the table.
 The sun lays one pale square on the floor.
 It moves an inch an hour.
 By evening it has crossed the room.
-It has done this since the house was built.
+It has risen this way since the first morning.
 Tomorrow it comes back. And the next day. And the next.`;
 
 const MAX_POINTS = 280;
