@@ -3,14 +3,14 @@ import { mkdirSync, writeFileSync } from "node:fs";
 const POEM = `The Keeper's Ledger
 
 Salt on the brass hinge.
-The beam turns, slow and heavy,
+The beam turns, slow, heavy,
 counting nameless waves.
 
-The logbook holds a hundred tides.
+The logbook holds the sea's handwriting.
 Tomorrow's tide, already written.
-The sea writes it. The sea erases it.
-A thousand tides hence,
-the sea is still writing.`;
+The sea writes. The sea erases.
+The logbook has no last page.
+The sea still writes.`;
 
 const MAX_POINTS = 280;
 // Count Unicode code points (not UTF-16 units) so the guard matches the
