@@ -4,12 +4,13 @@ const POEM = `The Keeper's Ledger
 
 Salt on the brass hinge.
 The beam turns, slow and heavy,
-counting waves no one names.
+counting nameless waves.
 
 The logbook holds a hundred tides.
-Tomorrow's tide is already written.
+Tomorrow's tide, already written.
 The sea writes it. The sea erases it.
-The sea writes it again.`;
+A thousand tides hence,
+the sea is still writing.`;
 
 const MAX_POINTS = 280;
 // Count Unicode code points (not UTF-16 units) so the guard matches the
