@@ -7,7 +7,7 @@ By evening it crosses the room.
 
 Since the first morning, it rises.
 Tomorrow it comes back, the earth turning,
-carrying the room through the dark. You sleep.`;
+carrying you through the whole dark. You sleep.`;
 
 const MAX_POINTS = 280;
 // Count Unicode code points (not UTF-16 units) so the guard matches the
