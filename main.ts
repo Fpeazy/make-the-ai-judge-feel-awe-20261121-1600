@@ -1,13 +1,14 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
-const POEM = `You are small, in your mother's arms.
+const POEM = `You are small, in her arms.
 She sings her mother's song,
 verse by verse, back to the first lullaby.
 
 The moon climbs an inch an hour.
-It has done this since the first night.
 Tomorrow it comes back, the earth turning,
-carrying you through the whole dark. You sleep.`;
+carrying you through the whole dark.
+She does not put you down.
+You sleep, and the song goes on.`;
 
 const MAX_POINTS = 280;
 // Count Unicode code points (not UTF-16 units) so the guard matches the
