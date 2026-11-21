@@ -1,14 +1,13 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
-const POEM = `The Kitchen Floor
-
-You are small, in your mother's lap.
-The sun lays a square on the floor.
+const POEM = `You are small, in your mother's lap.
+The sun lays one pale square on the floor.
 It moves an inch an hour.
-By evening it crossed the room.
-It has risen since the first morning.
-Tomorrow it comes back, the earth turning
-carrying the room. And the next day. And the next.`;
+By evening it has crossed the room.
+
+It has risen this way since the first morning.
+Tomorrow it comes back, the earth turning,
+carrying the room. And the next day, you sleep.`;
 
 const MAX_POINTS = 280;
 // Count Unicode code points (not UTF-16 units) so the guard matches the
